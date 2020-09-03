@@ -28,7 +28,7 @@
           "label": "افتراضي"
         }
       ],
-      "entity": "Question",
+      "entity": "السؤال",
       "field": {
         "label": "السؤال"
       }
@@ -53,7 +53,7 @@
               {},
               {
                 "label": "ردود الفعل لمجال نقاط محددة",
-                "placeholder": "Fill in the feedback"
+                "placeholder": "املأ الملاحظات"
               }
             ]
           }
@@ -61,44 +61,44 @@
       ]
     },
     {
-      "label": "Speak The Words Set labels and texts",
+      "label": "حدد الكلمات و مجموعة التسميات والنصوص",
       "fields": [
         {
           "label": "لافتة زر المقدمة",
-          "default": "Start Course!"
+          "default": "ابدأ الدورة!"
         },
         {
           "label": "ملصق نتائج شاشة الحل",
-          "default": "Your results:"
+          "default": "نتيجتك:"
         },
         {
           "label": "لافتة زر اظهار الحلول",
-          "default": "Show solution"
+          "default": "عرض الحل"
         },
         {
           "label": "تسمية زر اعادة المحاولة",
-          "default": "Retry"
+          "default": "اعادة المحاولة"
         },
         {
           "label": "لافتة الوصول للسؤال التالي",
-          "default": "Next question"
+          "default": "السؤال التالي"
         },
         {
           "label": "لافتة الوصول للسؤال السابق",
-          "default": "Previous question"
+          "default": "السؤال السابق"
         },
         {
           "label": "عنوان شريط التصفح",
-          "description": "Titles for questions in navigation bar. \":num\" will be replaced with the actual slide number.",
-          "default": "Slide :num"
+          "description": "عناوين الأسئلة في شريط التنقل. \":num\" سيتم استبداله برقم الشريحة الفعلي.",
+          "default": "الشريحة :num"
         },
         {
           "label": "لافتة الوصل الى الشريحة التي تم الوصول اليها",
-          "default": "Answered"
+          "default": "الاجابات"
         },
         {
           "label": "لافتة الوصول الى الشريحة النشطة",
-          "default": "Currently active"
+          "default": "نشط حاليا"
         }
       ]
     }
